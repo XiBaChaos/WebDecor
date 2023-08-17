@@ -7,7 +7,7 @@
 
 /* header */
 header {
-  background-image: url('../img/banner.png');
+  background-image: url('../img/background.jpg');
   height: 100vh;
   background-size: cover;
   background-position: center center;
@@ -54,7 +54,7 @@ header {
 
 .title-header {
   position: absolute;
-  top: 70%;
+  top: 50%;
   left: 50%;
   transform: translate(-50%, -50%);
   font-size: 55px;
